@@ -1,0 +1,3 @@
+rootProject.name='StudentStressPrediction'
+include ':app', ':vokaturi'
+include ':jni'
